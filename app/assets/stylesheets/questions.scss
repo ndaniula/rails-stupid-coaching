@@ -1,0 +1,62 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1 {
+font-family: 'Montserrat';
+
+}
+
+a {
+  margin-top: 20px;
+  font-weight: 200;
+  font-family: 'Montserrat';
+  text-decoration: none;
+  font-size: 12px;
+  color: #1cb1ef;
+}
+
+.search {
+
+    display: inline-block;
+    padding: 0.5em 3em;
+    border: 0.16em solid #cac1c1;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    width: 600px;
+    height: 60px;
+    border-radius: 1em;
+}
+
+.button {
+height: 60px;
+background-color: #0779a7;
+color: white;
+font-weight: bold;
+border-radius: 1em;
+width: 60px;
+}
+.box1 {
+border-left-color: #cac1c1;
+border-left-style: solid;
+border-left-width: 0.40em;
+padding-left: 15px;
+padding-top: 15px;
+padding-bottom: 5px;
+
+margin-bottom: 20px;
+}
+.box2 {
+border-left-style: solid;
+border-left-color: #cac1c1;
+border-left-width: 0.40em;
+background-color: #f9eacf;
+padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+
+}
